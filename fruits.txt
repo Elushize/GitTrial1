@@ -6,3 +6,5 @@ Cherry
 Agbalumo
 water melon
 grape
+berries
+guava
