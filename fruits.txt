@@ -2,9 +2,4 @@ Mango
 Pawpaw
 Apple
 Coconut
-Cherry
-Agbalumo
-water melon
-grape
-berries
-guava
+
